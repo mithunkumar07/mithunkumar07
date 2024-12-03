@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋, I'm Mithun K
 
-<!--
-**mithunkumar07/mithunkumar07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate developer and DevOps enthusiast with experience in building and deploying scalable applications. I enjoy working with a variety of technologies to solve complex problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+### Programming Languages
+- **Node.js**, **JavaScript**, **Java**, **HTML**, **CSS**
+
+### DevOps & Cloud
+- **Kubernetes**, **Docker**, **Terraform**
+- **Cloud Providers:** AWS, DigitalOcean, Azure, Heroku, Vercel
+
+### CI/CD
+- **Pipelines:** GitHub Actions, GitLab CI, Jenkins
+
+---
+
+## 🌐 Let's Connect!
+- **Portfolio:** [Your Portfolio Link]
+- **LinkedIn:** https://www.linkedin.com/in/mithun-k-063a72211/
+- **Twitter:** [Your Twitter Handle]
