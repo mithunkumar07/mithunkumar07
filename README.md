@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithun-k-063a72211/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:km319955@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](#RESUME_LINK_HERE)
+[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1OAjaf2aBJShlM0m67d21cf9c-xX4ZSGj/view?usp=sharing)
 [![Profile Views](https://komarev.com/ghpvc/?username=mithunkumar07&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/mithunkumar07)
 
 </div>
